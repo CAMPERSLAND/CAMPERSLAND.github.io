@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: CAMPERS
+logo: /assets/img/campers.png
+description: This page serves to list out all the tool made by CAMPERS team.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
