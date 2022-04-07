@@ -4,7 +4,7 @@
 This bot will automatically look for giveaways and join them.
 
 Download the latest version here:
-[![Download](../../assets/img/assets/img/download.png)](https://github.com/CAMPERSLAND/giveaway-joiner/raw/main/campers_giveaway_joiner_v_0.zip)
+[![Download](../../assets/img/assets/img/download_file.png)](https://github.com/CAMPERSLAND/giveaway-joiner/raw/main/campers_giveaway_joiner_v_0.zip)
 
 # Prerequisite
 1. member of [CAMPERS guild](https://discord.gg/Me2SBHr7ct)
@@ -14,7 +14,7 @@ Download the latest version here:
 2. extract the zip folder
 3. open the **run** folder
 4. type cmd inside the directory field
-![dir](../../assets/img/assets/img/dir.png)
+![dir](../../assets/img/assets/img/directory.png)
 4. press enter
 5. in the command promt, type `run.exe` and press enter
 ![run](../../assets/img/cp0.png)
