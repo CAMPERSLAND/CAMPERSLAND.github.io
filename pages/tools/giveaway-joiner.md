@@ -1,4 +1,6 @@
-# Discord Giveaway Join Bot *[back](./)*
+# Discord Giveaway Join Bot 
+*[back](./)*
+
 This bot will automatically look for giveaways and join them.
 
 Download the latest version here:
