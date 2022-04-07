@@ -1,5 +1,5 @@
 # Discord Giveaway Join Bot 
-*[back](./)*
+*[back](../../)*
 
 This bot will automatically look for giveaways and join them.
 
@@ -17,7 +17,7 @@ Download the latest version here:
 ![dir](../../assets/img/assets/img/dir.png)
 4. press enter
 5. in the command promt, type `run.exe` and press enter
-![dir](../../assets/img/cp0.png)
+![run](../../assets/img/cp0.png)
 
 # How to get an authentification-token
 To run the bot, you will have to provide your authentification token. 
@@ -34,4 +34,4 @@ Click it and copy the authentification code from the request headers.
 
 ![Image guide](https://i.imgur.com/xKHVrfZ.png)
 
-*[back](./)*
+*[back](../../)*
